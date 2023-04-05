@@ -107,7 +107,8 @@ print("For population =70,000,we predict a profit a profit of $"+str(round(predi
 ### Cost function using Gradient Descent Graph
 ![cost](COST%20FUNCTION%20USING%20GRADIENT%20DESCENT.png)
 ### Profit Prediction Graph
-![profit](PROFIT%20PREDICTION.png)
+![PROFIT PREDICTION1](https://user-images.githubusercontent.com/118466561/230007292-006c7ce2-9532-4533-82f4-ca36218515cf.png)
+
 ### Profit for the Population 35,000
 ![pop35](FOR%20POP%2035.png)
 ### Profit for the Population 70,000
